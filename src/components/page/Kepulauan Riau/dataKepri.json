@@ -1,0 +1,16 @@
+{
+    "Kepri": [
+        {
+            "Id":"1",
+            "Provinsi": "Aceh",
+            "Tahun": "Jan-21",
+            "Produksi": "38425.85682",
+            "Inflasi": "0.509636949",
+            "Konsumsi": "76360.96768",
+            "Harga Ramalan": "12233.51533",
+            "Harga Aktual": "12500",
+            "Error": "266.484672",
+            "Error/Harga Aktual": "0.021318774"
+        }
+    ]
+}
